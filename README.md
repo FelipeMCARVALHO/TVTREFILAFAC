@@ -10,9 +10,9 @@
       "tabReloadIntervalSeconds":660
     },
     {
-      "url": "https://arcelormittal.sharepoint.com/sites/Job_/Shared%20Documents/COMUNICA%C3%87%C3%83O/DDS%20dia%2001%2004.jpg?csf=1&web=1&e=Q49IIf&cid=5525b500-1d18-4f51-a7ee-b5e5bc567c5a",
+      "url": "https://app.powerbi.com/groups/me/reports/5e4c2c71-ab3a-45e5-a894-9063f4c14229/ReportSection5e49d6ba081547500c00?chromeless=0",
       "duration": 30,
-      "tabReloadIntervalSeconds":660
+      "tabReloadIntervalSeconds":10800
     }
   ]
 }
